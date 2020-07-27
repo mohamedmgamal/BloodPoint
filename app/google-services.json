@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "639753577764",
+    "firebase_url": "https://blood-point-eea63.firebaseio.com",
+    "project_id": "blood-point-eea63",
+    "storage_bucket": "blood-point-eea63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639753577764:android:88c6a7f5b3151bdd",
+        "android_client_info": {
+          "package_name": "com.example.csgraprojectmust.bloodpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639753577764-7ared6nrt6n8epcgvmi7mp8ai3hv20ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csgraprojectmust.bloodpoint",
+            "certificate_hash": "1704237e1a1f2d9689b6f9d7d7142e3c08a3c871"
+          }
+        },
+        {
+          "client_id": "639753577764-6v4jgltcq1825v776desgecjful6a4hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1Wur2T0mjtUSzBtyzWezqG8XEug-nj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639753577764-6v4jgltcq1825v776desgecjful6a4hm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639753577764-a2rc38vu92m2a0r9suo2fc146v5tajh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joe.GraduationProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
